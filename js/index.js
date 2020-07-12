@@ -4,7 +4,7 @@ var name = "Joe"
 var height = "74"
 
 console.log("Name:")
-li (console.log(name))
+<li> (console.log(name))
 
 console.log("Height:")
 console.log(height)
